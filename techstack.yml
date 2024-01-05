@@ -2,7 +2,7 @@ repo_name: 2lambda123/arctic-code-vault-java-patterns
 report_id: 523ede408c1b5e2287c30d544f2714e6
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:38:45+00:00'
+timestamp: '2024-01-05T08:13:58+00:00'
 requested_by: alban-auzeill
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/arctic-code-vault-java-patterns
   detection_source: Repo Metadata
 - name: MongoDB
   description: The database for giant ideas
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/2lambda123/arctic-code-vault-java-patterns/blob/master/src/main/resources/step6/src/apache/zeppelin/zeppelin-plugins/notebookrepo/mongo/src/main/java/org/apache/zeppelin/notebook/repo/OldMongoNotebookRepo.java
   detection_source: src/main/resources/step6/src/apache/zeppelin/zeppelin-plugins/notebookrepo/mongo/src/main/java/org/apache/zeppelin/notebook/repo/OldMongoNotebookRepo.java
   last_updated_by: Alban Auzeill
   last_updated_on: 2021-01-08 08:08:32.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/2lambda123/arctic-code-vault-java-patterns/blob/master/src/main/resources/step6/src/rzwitserloot/lombok/src/utils/lombok/eclipse/Eclipse.java
   detection_source: src/main/resources/step6/src/rzwitserloot/lombok/src/utils/lombok/eclipse/Eclipse.java
   last_updated_by: Alban Auzeill
   last_updated_on: 2021-01-08 08:08:32.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/arctic-code-vault-java-patterns/blob/master/build.gradle
   detection_source: build.gradle
   last_updated_by: Alban Auzeill
   last_updated_on: 2021-01-06 09:56:09.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/arctic-code-vault-java-patterns
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -69,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/2lambda123/arctic-code-vault-java-patterns/blob/master/build.gradle
   detection_source: build.gradle
   last_updated_by: Alban Auzeill
   last_updated_on: 2021-01-06 09:56:09.000000000 Z
